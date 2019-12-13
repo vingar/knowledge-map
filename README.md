@@ -15,7 +15,6 @@ Example: https://neicnordic.github.io/knowledge-map/
 - https://github.com/axios/axios
 - https://fusejs.io
 
-
 ## Status of this project
 
 - At this point only proof-of-concept. Suggestions welcome!
